@@ -1,25 +1,25 @@
-# AI Resume Ranker
+# 🤖 AI Resume Ranker
 
-## Overview
-An AI-powered resume ranking system that ranks candidates based on semantic similarity with a job description using Sentence Transformers.
+An AI-powered Applicant Tracking System (ATS) built with Streamlit.
 
 ## Features
-- Upload multiple resumes (PDF)
-- Upload or paste a job description
-- AI semantic matching
-- Candidate ranking
-- CSV export
-- Recruiter dashboard
 
-## Tech Stack
+- 📄 Upload multiple resumes
+- 🤖 Semantic AI matching
+- 🏆 Candidate ranking
+- 💻 Skill detection
+- 📊 Dashboard analytics
+- 📥 CSV report export
+
+## Technologies
+
 - Python
 - Streamlit
 - Sentence Transformers
 - Scikit-learn
 - PDFPlumber
-- Pandas
 
-## Run
+## Run Locally
 
 pip install -r requirements.txt
 
